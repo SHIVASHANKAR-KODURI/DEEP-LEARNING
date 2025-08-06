@@ -1,1 +1,2 @@
 # DEEP-LEARNING
+[LAB-2](https://github.com/SHIVASHANKAR-KODURI/DEEP-LEARNING/blob/main/DL_LAB2.ipynb)
